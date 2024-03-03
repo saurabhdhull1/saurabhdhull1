@@ -1,5 +1,9 @@
-# 💫 About Me:
-# Hi, I'm Saurabh! 👋<br><br>I'm a 🚀 Full Stack Developer 🚀 hailing from the vibrant tech community in Sonipat, Haryana, India. My coding journey involves crafting digital wonders using a diverse tech palette. From wielding the magic of Next.js and MERN Stack to orchestrating PHP symphonies with Yii2, <br>I'm on a mission to turn caffeine into code.<br><br>## 💻 Tech Stack<br>- **Frontend:** Next.js, React, JavaScript, TypeScript, HTML, CSS, SCSS<br>- **Backend:** Node.js, Express.js, MongoDB, MySQL, PHP, Yii2<br>- **Tools:** Git, Webpack, Babel<br><br>## 🌟 What I Do<br>- Transforming client dreams into pixel-perfect realities<br>- Weaving webs of code magic with a touch of humor and creativity<br>- Exploring the coding cosmos while battling bugs and sipping on caffeine<br><br>
+Hi, I'm Saurabh! 👋
+🌱 On a mission to turn caffeine into code.
+🔭 Currently working as a Full Stack Developer
+💬 I'm from the vibrant tech community in Sonipat, Haryana, India. 
+🚀 My coding journey involves crafting digital wonders using a diverse tech palette.
+⚡ Fun fact : I once wrote a program so efficient, it made my coffee break last longer than the time it took to execute! ☕💻 #CodingAchievements
 
 
 ## 🌐 Socials:
