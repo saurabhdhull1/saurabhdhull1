@@ -14,7 +14,7 @@ Hi, I'm Saurabh! 👋<br>🌱 On a mission to turn caffeine into code.<br>🔭 C
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;border-radius:12px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saurabhdhull1&icon=7&color=1)](https://visitcount.itsvg.in)
