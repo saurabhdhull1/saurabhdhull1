@@ -2,8 +2,6 @@
 Hi, I'm Saurabh! 👋  
 🌱 On a mission to turn caffeine into code.  
 🔭 Currently working as a Full Stack Developer  
-💬 I'm from the vibrant tech community in Sonipat, Haryana, India.  
-🚀 My coding journey involves crafting digital wonders using a diverse tech palette.  
 ⚡ Fun fact : I once wrote a program so efficient, it made my coffee break last longer than the time it took to execute! ☕💻 #CodingAchievements
 
 ---
